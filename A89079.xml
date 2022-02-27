@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius vapulans, or, Naworth stript and vvhipt. In answer to a most base and scandalous pamphlet, called Mercurio Cœlico-Mastix, or an anti-caveat, &amp;c. Sent abroad from Oxford, under the name of G. Naworth. In opposition to Mercurius Cœlicus, or a caveat to all the people of the kingdom; lately penned by Mr. John Booker. By Timotheus Philo-Bookerus.</title>
+            <author>Timotheus Philo-Bookerus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89079</idno>
+            <idno type="STC">Wing M1775</idno>
+            <idno type="STC">Thomason E35_16</idno>
+            <idno type="STC">ESTC R4847</idno>
+            <idno type="EEBO-CITATION">99872735</idno>
+            <idno type="PROQUEST">99872735</idno>
+            <idno type="VID">154624</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89079)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154624)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E35[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius vapulans, or, Naworth stript and vvhipt. In answer to a most base and scandalous pamphlet, called Mercurio Cœlico-Mastix, or an anti-caveat, &amp;c. Sent abroad from Oxford, under the name of G. Naworth. In opposition to Mercurius Cœlicus, or a caveat to all the people of the kingdom; lately penned by Mr. John Booker. By Timotheus Philo-Bookerus.</title>
+                  <author>Timotheus Philo-Bookerus.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed according to Order for I. F.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>March 4. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Timotheus Philo-Bookerus is a pseudonym.</note>
+                  <note>Annotation on Thomason copy: the 4 in the imprint date is crossed out and altered to "1643".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wharton, George, --  Sir, 1617-1681. --  Mercurio-cœlico mastix --  Early works to 1800.</term>
+               <term>Booker, John, 1603-1667. --  Mercurius cœlicus --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154624:1" rendition="simple:additions"/>
+            <p>Mercurius Vapulans, OR <hi>NAWORTH</hi> Stript and Whipt.</p>
+            <p>IN ANSWER To a moſt Baſe and Scandalous Pamphlet, called <hi>Mercurio-Coelico-Maſtix,</hi> OR AN ANTI-CAVEAT, &amp;c.</p>
+            <p>Sent abroad from Oxford, under the Name of G. NAWORTH.</p>
+            <p>In oppoſition to MERCURIUS COELICUS, OR A Caveat to all the People of the Kingdom; Lately penned by Mr. JOHN BOOKER.</p>
+            <p>By TIMOTHEUS PHILO-BOOKERUS.</p>
+            <p>Printed according to Order for I.F. March 4. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:154624:2"/>
+            <head>
+               <hi>NAWORTH</hi> Stript and whipt.</head>
+            <p>WIth your leave, Mr. <hi>Booker</hi> I mean to ſalute an acquaintance of yours whom I have perceived to walke abroad a pretty while unregarded, or not met with by you: For I am perſwaded had you in all this time ſeene him, you would not have let him paſſe the chaſtiſement of your Pen. <hi>George Naworth</hi> is come abroad againe in a new ſuit of Slander, moſt ſpeciouſly begirt with lies; but I will on button him for you to his Principles, and ſtrip his libellous ſoule ſtark naked and laſh him through the ſtreets of <hi>London</hi> back againe to <hi>Oxford,</hi> with ſuch <hi>Whip-cord</hi> lines, that all the Wit there ſhall be hardly able to recover him. I muſt put up this Malignant <hi>Chaldean</hi> in ſharpe pickle, that he may reliſh well, and ſo pouder him with my penny-worth of ſalt, that his infamous name may be preſerved to the eares of poſterity, as freſh in vil<g ref="char:EOLhyphen"/>lany, as it was the firſt day he came in Print.</p>
+            <p>I perceive the Divell will have his Agents in every profeſſion, to croſſe and calumniate the proceedings, and favourers of this moſt excellent and illuſtrious Parliament: The <hi>Court,</hi> the <hi>Pulpit,</hi> and the <hi>Countrey</hi> are all become <hi>Vaſſals</hi> to the deſignes of <hi>Ieſuites,</hi> and to the deſperate ſenſe of forlorne <hi>Incendiaries,</hi> eve<g ref="char:EOLhyphen"/>ry one ſtriving by tongue, or pen, to exerciſe his venome, and blaſt the glory of this hopefull Reformation. Among the reſt, Mr. <hi>G. N.</hi> is not the leaſt, one of the <hi>Egyptian Ptolomies</hi> Baſtards; for he never was of the true ſtraine of <hi>Aſtronomy,</hi> and were <hi>Kepler</hi> or <hi>Tycho</hi> living, they would loath ſuch an <hi>A<g ref="char:EOLhyphen"/>poſtate</hi> from their Profeſſion, which ſhould thus diſgrace them, leaving <hi>Alma<g ref="char:EOLhyphen"/>nacks</hi> to live by ſlanderous Pamphleting; but this hath happened ſince his <hi>Durham</hi> braines were referred to the Latitude of <hi>Oxford</hi> poore allowance, where their <hi>Almutens</hi> dominier for the moſt part, like their friends the <hi>Capuchins,</hi> in <hi>Aqua<g ref="char:EOLhyphen"/>rius</hi> and <hi>Piſces,</hi> and if they chance to plunder any better dyet, now and then in <hi>Virgo,</hi> with full <hi>Conjunction;</hi> yet a ſafer and honeſter way <hi>G. N.</hi> might have bin thought upon for maintenance, than in <hi>oppoſition</hi> to the bright ſtars in our firma<g ref="char:EOLhyphen"/>ment, ſtriving to ecclipſe their luſtre with thy malicious malignancy, or then by <hi>calculating</hi> treaſon againſt the State, to give the world occaſion of <hi>Prognoſtica<g ref="char:EOLhyphen"/>ting</hi> what will become of thee in the end, when <hi>Gregory</hi> will be predominant, and thou aſcendant in the <hi>Trine</hi> of <hi>Tiburne,</hi> where thy <hi>Influence</hi> will be choaked, and thou prove a <hi>falling Star.</hi>
+            </p>
+            <p>
+               <hi>G. Naworth</hi> gives us to underſtand, that within ſix dayes after Mr. <hi>Booker</hi> had printed his <hi>Mercurius Coelicus,</hi> it came to his hands in <hi>Oxford,</hi> and that in the ſpace of ſix hours he wrote the <hi>Anſwer</hi> to it. Neither of theſe <hi>G. N.</hi> is any won<g ref="char:EOLhyphen"/>der; for had it been never ſo worthleſſe, weak, and dull, you have ſo many faſt
+<pb n="3" facs="tcp:154624:2"/> friends here, which will not let the leaſt parcel paſſe, but if it be poſſible they will cram it into their <hi>Intelligence,</hi> and ſend it to you; much more probable then it is, that ſo ſubtile, ſo well conſtitutioned a <hi>Mercurie</hi> as that was, of ſo much concern<g ref="char:EOLhyphen"/>ment againſt thee, ſhould come in that ſpace to thy hands. And as for thy an<g ref="char:EOLhyphen"/>ſwer to it in ſix hours, we leaſt of all wonder at that, for all of your partee are very ſufficient <hi>Raylers,</hi> even <hi>Naturallized</hi> into detraction and lying: ſuch ſtuffe flowes freely of it ſelfe, you need not ſtraine for it; It is the true temper of your Brains, the very conſtitution and complexion of the Court, Campe, and Vniver<g ref="char:EOLhyphen"/>ſity: Every one of you is as another <hi>Aulicus,</hi> a <hi>Rakehill,</hi> a ſtore-houſe of treache<g ref="char:EOLhyphen"/>ry and villany, full of miſchievous Plots and Machinations. But I would have thee, <hi>Naworth,</hi> with all thy Star-gazing, find out another man in the Moon, to mannage the next deviliſh Conſpiracy better, and then I prognoſticate unto thee at leaſt a <hi>Knight-hood:</hi> it were a more acceptable ſervice than Pamphleting, and the ready road to honour. What a rare ſight would it be to ſee your Wor<g ref="char:EOLhyphen"/>ſhip ſtrut in the ſtreets, like another <hi>Vrſa Major,</hi> ſwear in Taverns there is no Sun but <hi>Sack and Spaniſh gold,</hi> look ſcornfully upon your old friends the <hi>Planets,</hi> and bid defiance to all but <hi>Charle-waine.</hi> To leave the <hi>Zodiack,</hi> and all the Cele<g ref="char:EOLhyphen"/>ſtiall Circles, to ſwagger about in a Military Belt, from <hi>George Naworth</hi> to be<g ref="char:EOLhyphen"/>come Sir <hi>George,</hi> and as haughty as St. <hi>George</hi> for <hi>England.</hi>
+            </p>
+            <p>You think to climbe even as <hi>Aulicus</hi> doth, and I think ſo too, one day we ſhall ſee it: for thou runneſt in the ſome villanous ſtraine with him, and I conceive, <hi>Iuſtice</hi> will not be impartiall. Thou ſaiſt, <hi>This is not the firſt time it hath been thy fortune to encounter with a Rebell.</hi> Rebels are your beſt friends, and I can calcu<g ref="char:EOLhyphen"/>late the truth hereof from the 23. of <hi>Octob.</hi> 1641. at which time the <hi>damnable Re<g ref="char:EOLhyphen"/>bellion in Ireland</hi> firſt brake forth, that they have been the greateſt friends to your Cauſe, and the chief pillars whereupon the maine of your <hi>Oxford</hi> deſigne reſted; and this is more than apparant by this which followeth, that having done their worke again in <hi>Ireland,</hi> they ſhould now be brought over hither to further the ruine of this Kingdome. But thou talkeſt of the incountring, and ſaiſt, it is not the firſt time. I hope it is not fighting you meane, you would not be accounted a Martiall trifle: I have calculated thy Nativity, and muſt tell thee, that <hi>Mars</hi> was under the Hatches when thou wert borne, <hi>Venus</hi> like a dirty ſlut was predomi<g ref="char:EOLhyphen"/>nant, and looked askew upon thee, ſo that ever ſince ſhe beſtowed a livery upon thee at thy birth, thou haſt worne her Colours, and followed her Camp, and art as I heare an arrant Craven, fit onely to briſtle among Hens, in plaine Engliſh, <hi>Dung-hill Iades,</hi> and very likely to live and dye in that ſervice, a ſworne <hi>Votary, Vaſſall,</hi> and <hi>Martyr</hi> to the Kerchiefe. There is another kind of incountring, and that is with the Pen, <hi>viz.</hi> Pamphleting, and in this thou haſt been a notable ſtick<g ref="char:EOLhyphen"/>ler to hold life and ſoule together, and to eclipſe our brighteſt ſtars in the Firma<g ref="char:EOLhyphen"/>ment; but thou knoweſt what I can prognoſticate from ſuch an <hi>Eclipſe,</hi> and Mr. <hi>Booker</hi> will tell thee, the world cannot be deluded in ſo evident a Prognoſtick, if thou hold on this courſe.</p>
+            <pb n="4" facs="tcp:154624:3"/>
+            <p>But <hi>G. Naworth</hi> will hold on that courſe ſtill; becauſe he, I perceive, is one of thoſe deluded wretches that builds his faith upon <hi>Mercurius Aulicus,</hi> and ſo is utterly ignorant of the excellent courſes taken here, and ſaies, what many Silly people among them do abſolutely beleeve, that we are <hi>fading here,</hi> and <hi>nothing now left to ſupport us but Feares and Iealouſies.</hi> Yes, you will allow us a little mo<g ref="char:EOLhyphen"/>ney too, I hope, and ſome Victuals, though you make your <hi>Oxford</hi> friends beleeve we have neither, but that we are almoſt ready to cut our own throats for want of both. I thought truth might be a little more common among you, but I ſee you put out the candle before your friends, and leave them in the Darke, leſt the light ſhould diſcover your baſeneſſe.</p>
+            <p>Thou ſayeſt we are here furniſhed with an Implicite Faith. It is well that we have ſome faith, you have not enough to keep you from being Infidels, and Atheiſts: your <hi>Romane</hi> Faith is to break Faith, and to break the necks of them which truſt you; and ſo Implicit, that it is a meer ſnare to an honeſt heart, and to be ab<g ref="char:EOLhyphen"/>horred by all that are truely <hi>Proteſtant.</hi>
+            </p>
+            <p>Thou ſayeſt we miſtake groſſely, if we think to prevail at <hi>Oxford</hi> by intreaties. Firſt, we know you are mercileſſe; Secondly, we have no occaſion to intreat you, and ſcorne intreating as much as we hate your former treacherous treating. And thirdly, you will finde ſhortly by experience, that we do not think to prevail by intreating; for we mean to intreat, and handle you, as our valiant brethren of <hi>Scotland</hi> do <hi>Newcaſtle,</hi> ſo that if your ſelves do prevail at all, it muſt be by intrea<g ref="char:EOLhyphen"/>ting bagge and baggage.</p>
+            <p>Thou ſayeſt that thy infamous <hi>Chronologie</hi> is not at all aſhamed of its <hi>Deſcent,</hi> not fearfull Mr. <hi>Booker</hi> ſhould calculate its Nativity. Mr. <hi>Booker</hi> never intended to calculate either yours, or your Books; Yet I know that <hi>Saturn,</hi> or ſome ſuch Dull Planet had an influence upon your brains in the hatching, and he took the paines to calculate your death, though not the <hi>Deſcent</hi> of your book, which will be (that I may uſe my own words) by an <hi>Aſcent</hi> upon the <hi>Trine</hi> where <hi>Gregory</hi> is predominant.</p>
+            <p>Why doſt thou undervalue our <hi>Calculations</hi> for the <hi>Meridian</hi> of <hi>London?</hi> We can <hi>Calculate</hi> his <hi>Excellencies</hi> approach to <hi>Oxford,</hi> and Sir <hi>William Wallers</hi> jour<g ref="char:EOLhyphen"/>neying to the <hi>Weſt,</hi> and his baiting the <hi>Devon</hi> and <hi>Corniſh</hi> Brutes into a better ſence of <hi>Religion,</hi> and the <hi>Scots</hi> conqueſt in the <hi>North,</hi> their taking of <hi>New-castle,</hi> purging the <hi>Marqueſſe</hi> with a <hi>Pill</hi> againſt Popery, making the <hi>Goſpel</hi> ſhine all over the Northerne parts, and ſo dazle the <hi>Newarkers,</hi> that they will not put them to the trouble of Scaling the <hi>Workes:</hi> Many more ſuch exact <hi>Calculations</hi> as theſe are we can boaſt of, and even triumph before hand, not ſo much from ſence and reaſon, as by thoſe moſt excellent warlike Engines, <hi>Faith, Faſting</hi> and <hi>Prayer.</hi>
+            </p>
+            <p>Thou bidſt us to know that <hi>Rebellion is as the Sin of Witch-craft;</hi> your <hi>Oxford</hi> Rebellion is indeed <hi>Witch-craft</hi> it ſelf; It were too tedious to number up thoſe many <hi>State-Conjurers</hi> there, which continually work with the Devill for the rai<g ref="char:EOLhyphen"/>ſing
+<pb facs="tcp:154624:3"/> of more, and greater ſtormes to wrack this ſmall Veſſell of the Kingdom, wherein <hi>Wee,</hi> our <hi>Religion,</hi> and fortunes, are embarqued. I need not bid you labour for the Art, becauſe I hear you are in a very fair way already, and I ſup<g ref="char:EOLhyphen"/>poſe that ſhortly your Schollers will be admitted to Degrees in the profeſſion, it being all the way you have left for the maintenance of <hi>your Proteſtant Religion.</hi>
+            </p>
+            <p>Thou bidſt us alſo remember what the <hi>Earl</hi> of <hi>Strafford</hi> told us at his death. We remember very well that he ſaid, <hi>There vvas a cloud hanging over this King<g ref="char:EOLhyphen"/>dom.</hi> He ſaw it, and it is apparent enough he was throughly acquainted with the Deſignes now in agitation, which if it be true, what an account could he give before the Celeſtiall Tribunall, for his ſilence at his death in ſuch a caſe! He could never have given greater glory to the <hi>Majeſtie</hi> of heaven, nor a better teſtimony of his repentance unto the world, then to have Diſcovered ſecrets of ſo high concern<g ref="char:EOLhyphen"/>ment, to the future happineſſe of the Religion, and Kingdom.</p>
+            <p>Thou confeſſeſt thy ſelf to grow <hi>Ambitious. Ambition</hi> is an <hi>Oxford</hi> diſeaſe, and why then not thou infected with that as well as the reſt?</p>
+            <p>Thou wouldeſt have us imitate thee in our extemporary prayers. We have ſo much <hi>Chriſtianity</hi> as to remember thee, and all that are in any deſperate eſtate in our prayers; And if ſo be it be poſſible ever to hear that you begin to pray, we may chance to imitate you, if your way be tolerable.</p>
+            <p>But what have we to do with thy <hi>Almanack</hi> for the yeer 1639. that thou ſhouldeſt bid us <hi>remember, there vvas ſomething in it which pointed at the Fire<g ref="char:EOLhyphen"/>brands vvhich kindled this unnaturall and bloody Warre, and a Memorandum like<g ref="char:EOLhyphen"/>vviſe of the Inſurrection, and intended invaſion of the Scots.</hi> I ſuppoſe thoſe whom thou meaneſt for the <hi>Firebrands,</hi> were the <hi>Lights</hi> of the <hi>Common-Wealth,</hi> which was then over-clowded with a generall Darkneſs. But I wonder thou couldeſt not be as quick-ſighted now upon the ſecond coming in of our brethren to help to reſcue us from our miſeries. I know thee of a more ambitious pretending ſpi<g ref="char:EOLhyphen"/>rit, than to ſay thou didſt not foreſee it by the Stars long before. How came it to paſſe then that thou and thy companion <hi>Aulicus</hi> ſhould bee ſo impudent, that when their advance forward was generally known, and confirmed, ye did continually deny it in that <hi>Raſcall</hi> Pamphlet, to keep the knowledge thereof from your own Partee, leaſt they ſhould be disheartned?</p>
+            <p>But hold, hold good <hi>George,</hi> be not ſo haſtie to make your ſelf famous, by ſcandalouſly abuſing Mr. <hi>Booker,</hi> as thou doſt; for I would have you take a little patience, whilſt I court you with your own language in his behalfe; <hi>I think thou art already as famous a Rebell, as any I knovv of thy ſtampe. I knovv it hath been thy daily practice, and Profeſſion</hi> (otherwiſe very likely to ſtarve) <hi>for a long time to delude the Ignorant vvith fopperies, and I ſuppoſe thou art become ridiculous enough to all ſuch as have had any dealing vvith thee, or ſo much as heard of the Name of</hi> Naworth.</p>
+            <p>Doe not for pities ſake rub an old ſore, and laſh out Sir <hi>Iohn Hotham,</hi> and call him Rebellious, nor ſay that he trayterouſly denyed his Majeſty entrance into
+<pb facs="tcp:154624:4"/> 
+               <hi>Hull,</hi> whereas at laſt he intended to lay on ſo faire a plaiſter, ſuppoſedly to ſalve up his honour; Hee hath onely miſtaken the way to <hi>Court.</hi> I pray you good <hi>G. Naworth</hi> bee not angry with him, for hee-meant your cauſe no harme.</p>
+            <p>But what is the reaſon <hi>G. N.</hi> that one while you commend Mr. <hi>Booker,</hi> and tell us, <hi>that you are proud of jumping in the ſame opinion with him in the year</hi> 1639 <hi>concerning the Ecclipſe of the Sun:</hi> And now in the yeare 1644. you are as proud in being of a contrary opinion with him, and very ambitious in taking occaſion to thwart him in the buſineſſe concerning the grand <hi>Eclipſe</hi> of the Sun in our <hi>Firmament,</hi> by reaſon of ſo many Malignant bodies conjoyned, to hinder the Royall Influence from us. This is a ſigne that Mr. <hi>Booker</hi> is the beſt Aſtronomer of the two, and you now miſtaken in your Calculation: We have the clear <hi>Per<g ref="char:EOLhyphen"/>spective</hi> of a true Parliament, by the help whereof we can diſcerne through all your dark pretences, and behold thoſe many falſe deſtructive Clouds, which e<g ref="char:EOLhyphen"/>clipſe the <hi>Royall Splendour,</hi> and ſhowre downe a Deluge of miſchiefes, and mi<g ref="char:EOLhyphen"/>ſeries upon the Kingdom. But thou askeſt Mr. <hi>Booker what all this is for a Cave<g ref="char:EOLhyphen"/>at to the whole Kingdome.</hi> Yes very pertiment: And it is a moſt honeſt part to give people warning of the miſeries like to enſue, and by a timely Prognoſticati<g ref="char:EOLhyphen"/>on to anticipate thy vile and abhominable Calculation, and demonſtrate unto the world what indeed thou art; <hi>A counterfeit, pernicious, and lying Pamphleter.</hi>
+            </p>
+            <p>Thou ſaiſt, that we <hi>ſtand more and more in need of the Scots,</hi> and that <hi>we had beſt provide money for them quickly; otherwiſe, No penny, no Pater noſter.</hi> What need they have money, <hi>G. N.</hi> from us, when the Northern Marqueſſe is like to beare their charges with his treaſure, Iewels, Coyne, and Coale-pits? I dare ſay, he wil pawne all his Popiſh Trinkets, and leave himſelfe very bare in Religion to pleaſure them. I am perſwaded (good kind ſoule) he will not deny them their <hi>Penny</hi> nor their <hi>Pater-noſter,</hi> nor the <hi>Pater noſter rovv</hi> of Diamonds, over which he rambles himſelfe quite out of breath a mornings to exerciſe his devotion in<g ref="char:EOLhyphen"/>to a meritorious poſture.</p>
+            <p>In the next place thou ſayſt, thou wilt come cloſer to Mr. <hi>Booker:</hi> yet <hi>(not to<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cloſe I adviſe you for feare of hanging)</hi> And thou wouldeſt bee informed, <hi>upon vvhat grounds Mr.</hi> Booker <hi>deduced the ſignification of the putting in execution the illegall Commiſsion of Array: And alſo the ſetling of the</hi> Militia <hi>of the Kingdome by the Parliament, from the</hi> Conjunction of <hi>Mars</hi> and <hi>Jupiter,</hi> the 15. day of May 1643. A weaker Aſtronomer than Mr. <hi>Booker</hi> might have Prognoſticated this long before that time, with ſufficient grounds for the conjecture: for the put<g ref="char:EOLhyphen"/>ting <hi>in Execution the illegall Commiſsion of Array,</hi> was the effect of the Con<g ref="char:EOLhyphen"/>junction before mentioned, when <hi>Mars</hi> being ſurrounded with Malignant Con<g ref="char:EOLhyphen"/>ſtellations, and in a warlike poſture was cheriſhed with a favourable <hi>Aſpect</hi> from our Royall <hi>Iupiter,</hi> and radiated the <hi>fatall beames</hi> of Gunpowder to deſtroy us, And had deſtroyed us, had not the oppoſition of ſome more benign ſtars prevented it, by that provident Act <hi>of ſetling the</hi> Militia <hi>of the Kingdome.</hi>
+            </p>
+            <pb n="7" facs="tcp:154624:4"/>
+            <p>But thou proceedeſt, and wouldeſt maintain, <hi>that both theſe being effects of a contrary nature, cannot both follow the ſame Coniunction;</hi> and demandeſt, <hi>How one and the ſame Poſition, at one and the ſame time, ſhould produce two ſuch contrary effects.</hi> I ſhould give thee ſatisfaction in this, but that thou puzzelſt me with <hi>Fran<g ref="char:EOLhyphen"/>ciſcus Iunctinus, Albohazen Haly,</hi> &amp; other Pagan Malignants of thy acquaintance, ſuch as <hi>Iupiter Iunctus cum Malevolo, Planetae Vincentes</hi> (or rather <hi>Victae) preten<g ref="char:EOLhyphen"/>ded Parl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ament</hi> (with you at <hi>Oxford) dignities Eſſentiall and Accidentall</hi> (all as frivolous as your Great Seal) I tell thee it is evident enough, that from the ſame Coniunction aboveſaid, proceeded the Illegall Co<g ref="char:cmbAbbrStroke">̄</g>miſsion of Array, &amp; the ſettling of the Militia; that to offend &amp; deſtroy, this to defend &amp; preſerve the Kingdom.</p>
+            <p>Thou haſt another touch at Mr. <hi>Bookers Almanack,</hi> and denyeſt that the <hi>Sun</hi> and <hi>Mars</hi> were in <hi>Oppoſition</hi> on the ſame day the Battel was at <hi>Keynton</hi> field, <hi>Where our Invincible Army received ſuch a wound, which Weſtminſter Phyſick vvill never cure.</hi> Is not this a palpable falſhood? Was not our <hi>Royall Sun</hi> that day in oppoſition to <hi>Mars,</hi> and eclypſed too? If we grant it otherwiſe, we ſhould belie our ſelves, and we need not do it, Mr. <hi>G.N.</hi> when you are ſo nimble at it. For ſhame mention not <hi>Keynton,</hi> nor <hi>Edge-Hill</hi> any more, where your ſeduced Com<g ref="char:EOLhyphen"/>rades received more wounds in their Bodies, then you could ſupply with ordina<g ref="char:EOLhyphen"/>ry Phyſick; and the feſtred Malignity of your Cauſe was ſo bruiſed, that ever ſince to this day it remains incurable.</p>
+            <p>Now thou art on thy way as far as <hi>Edge-Hill</hi> in lying, thou wilt needs have us to be <hi>ſoundly beaten</hi> there, and that <hi>our truly valiant Generall vvas very tame the next morning.</hi> If he was ſo tame, why then did you not cage him? How hapned it he was not taken and impriſoned, for letting out ſo much of your noble, and baſe, degenerous and wilde blood? Let the conſideration of this be referred to any but of indifferent Iudgment; But there is little hope of your confeſsing truth, till the laſt Iudgement, where your conſciences muſt anſwer for the bloodſhed.</p>
+            <p>And here, Mr. <hi>G.N.</hi> you muſt give me leave to tell you, that though you ſay, <hi>You do not live by cheating and lying,</hi> yet you do by making of cheating and lying Pamphlets, and by Calculating of News for the Meridian of <hi>Oxford;</hi> for the truth of affairs muſt not walk abroad there, either naked, or in their own clothing, but muſt be tranſlated into ſuch a habit, as will be moſt pleaſing, and acceptable to the hearers; this you may confeſs in time, without equivocating, or mentall reſervatio<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            <p>And whereas thou ſayeſt, Mr. <hi>Booker</hi> dares not go to Oxford, unleſſe it be for a Spie; I think even aſſoon as thou dareſt come to London for a mornings entertainment at the Exchange, where you may chance to curſe your <hi>Aſcendant</hi> too, and look with ſuch an <hi>Aſpect,</hi> that you never obſer<g ref="char:EOLhyphen"/>ved a worſe upon a Proteſtant at Court.</p>
+            <p>Thou wilt by no means yeeld that thou cameſt to Oxford by Sea; but ſayeſt, <hi>Tis well known thou cameſt by land.</hi> Whether by Sea, or by land, is no great matter; but I fear, your laſt journey will be by neither. And to fit thy ſelf the better for this laſt journey, here thou beginneſt the ſe<g ref="char:EOLhyphen"/>cond part of the Lamentation of Cheap-ſide Croſſe, well tuned with Blaſphemy: for thou ſayeſt, <hi>It was the onely thing whereby w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are diſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inguiſhed, and known from Turks, Iew<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and Infidels. it being the true and onely badge of the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rofeſſe.</hi> Thus thou makeſt <hi>Cheap-ſide Croſſe</hi> an <hi>eſſen<g ref="char:EOLhyphen"/>tiall</hi> part of <hi>Chriſtianity.</hi> Is this the fruit o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ur <hi>Oxford</hi> ſtudies? I pray thee <hi>Naworth,</hi> tell us for what <hi>Meridian</hi> this Divinity was cal<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, it is of too great a latitude for London.</p>
+            <pb facs="tcp:154624:5"/>
+            <p>Now becauſe of the ſeaſonable demolliſhing this Idoll of yours called <hi>Cheap-ſide Croſſe,</hi> thou meaneſt to pay us home with a competent ſumme of ſlander for our paines, and being to act the ſecond part of <hi>Aulicus,</hi> (whoſe yonger brother thou art) thou calleſt the honourable Parliament, which will remain a true Parliament, in ſpight of all the divelliſh calumnies you can vomit up againſt it, a <hi>Pretended Parliament:</hi> Our valiant true-hearted Colonels and Commanders thou reckoneſt up to be <hi>Wood mongers, Fell-mongers, Button makers, &amp;c.</hi> (Thou calleſt them ſo, be<g ref="char:EOLhyphen"/>cauſe they <hi>fell</hi> and knock you downe ſo faſt, and teach your Breeches to <hi>make Buttons:</hi>) O<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> grave and <hi>religious Aſſembly of Divines,</hi> thou calleſt, <hi>A Schiſmaticall Aſſembly of Taylers, Mil<g ref="char:EOLhyphen"/>lers, Coblers, and Weavers, &amp;c.</hi> (ſo they are to ſew up the rent which your Prelates and their ad<g ref="char:EOLhyphen"/>herents have made in the Church, and cobled it up with their owne ſuperſtitious tacklings, and wove into the garments of <hi>Chriſts Spouſe</hi> ſtrange ſtuffe;) And <hi>Millers,</hi> I hope they are likewiſe to grinde Popery to powder; and we wiſh them any thing; ſo they may hold the Popes Noſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the Grind-ſtone. Then thou calleſt the Scottiſh Commiſſioners, the <hi>Incendiaries between th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> two Kingdomes of England and Scotland.</hi> (We will joyne with them to burne down the houſe o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Baal</hi> to the ground.) <hi>The Lord Major, Aldermen, and Common Councell men. Taxe-bearing Mules</hi> They are ſtill contented to beare your ſlanderous reproaches, and to beare any burthen but th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Popes: they are unwilling to be rode on by him, and the Cardinals with a <hi>Peter pence</hi> bridle.</p>
+            <p>Thou wonder'ſt we goe not about to alter the Coyn, there being ſo many Croſſes upon it. I t<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> thee we will keep and embrace any Croſſe that will croſſe your deſigne of Idolizing the Croſſe<g ref="char:punc">▪</g>
+            </p>
+            <p>Thou ſaiſt the Schollars long to ſee Mr. <hi>Booker,</hi> and diſpute with him, whether New-caſtle Coale be the Element of fire or not. There needs no diſpute in the matter, though the Mar<g ref="char:EOLhyphen"/>queſſe cannot reſolve you, the Coal-pits being out of his poſſeſſion, and his power quenched there; yet we can informe you, that he intended to create a Region of fire there, by ſetting th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pits on fire, and <hi>Phaeton</hi>-like to burne aſunder the Axell-tree of the Kingdome, that we<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with himſelfe might all drop into ruine together.</p>
+            <p>I cannot believe but that thou art <hi>Aulicus</hi> his bed-fellow, his ſole Companion, for thou run<g ref="char:EOLhyphen"/>neſt altogether in the ſame ſtraine with him every way, and calleſt the Lord <hi>Say,</hi> late Lord <hi>Say,</hi> and his Chaplain a Miller. He hath ſerved an Apprentiſhip indeed, and hath learned to grind<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Popiſh Trinkets too, <hi>et omnia ejuſdem farinae.</hi>
+            </p>
+            <p>Next of all thou art troubled about <hi>Mariana</hi> his book, which was burnt at <hi>Paris</hi> for teachin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>it lawfull for Subjects to kill their Kings and Princes quocunquo modo, &amp;c.</hi> And wouldeſt have i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reprinted by <hi>Order of both Houſes.</hi> If your pretended Houſes at Oxford will not order the Prin<g ref="char:EOLhyphen"/>ting of it, you may have it done in Ireland: the Doctrine will take there, and I feare at Oxford too. In the meane time forbeare ſuch idle ſlandering that great <hi>Conjunction at Weſtminſter.</hi> Th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> effects of it wil laſt many Februaries, in ſpight of your Malignant Oppoſition, and flouriſh when you and all your helliſh Stratagems doe fade and faile you. Call them not <hi>Opacous, darke and unweildy ſtars, which reject to be inlightned with the lively and wholſome Rayes of the Sun,</hi> (ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Royall King <hi>Charles</hi>) For they are bright and ſhining ſtarres, which diſperſe reviving heate light, and comfort through all parts of this dying Kingdome, and will ſtill continue glorious in that excellent luſtre, which the <hi>Royall ſunne</hi> was pleaſed to beſtow upon them, though now he<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cannot daigne them a favourable Aſpect, being clouded from them. And yet we hope once to breath in that happy time, when his Majeſty will recollect himſelfe, and call up thoſe ingrafted Principles of Nobleneſſe, Piety, true Religion, and Reaſon, which made him formerly admired and beloved by his People: Nay the very light of nature cannot but be ſufficient to diſpell t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rkneſſe wherein you and your friends walke blind fold to deſtruction, if you were not wholy beſotted and given up to a ſpirit of deluſion. Hence it is that we have ſo little hope of your con<g ref="char:EOLhyphen"/>verſion; and therefore I ſhall not ſpend many words, but leave that to God and his Miniſters. Onely give me leave to diſmiſſe thee with an Anagram, the Engliſh of thy name,<lb/> 
+               <hi>GEORGIVS NAWORTH.</hi> 'TIS A WHORING ROGVE.</p>
+            <p>And this Engliſh agrees with the <hi>Calculation</hi> of thy <hi>Nativity</hi> I formerly gave thee. I adviſe you <hi>George Naworth,</hi> to amend your Calculation and your life in <hi>Oxford,</hi> if it be poſſible; for it <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuppoſed the Scots will fright you from returning to <hi>Durham;</hi> for if you came thither, the Sen<g ref="char:EOLhyphen"/>tence would be, that <hi>you muſt not return to the place from whence you came,</hi> but to the <hi>Gallows,</hi> againſt which there will be no <hi>Anti-caveat.</hi> So farewell.</p>
+            <closer>
+               <signed>Timotheus Philo Bookerus.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154624:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
